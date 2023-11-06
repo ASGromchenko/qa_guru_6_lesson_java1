@@ -28,7 +28,9 @@ public class Main {
         System.out.println("Равенство = " + c);
         System.out.println("Неравенство = " + d);
         System.out.println("Больше = " + e);
+        System.out.println("Меньше = " + f);
         System.out.println("Меньше или равно = " + h);
+        System.out.println("Больше или равно = " + g);
 
         System.out.println("\nЛогические операторы: \n");
         boolean tr = true;
